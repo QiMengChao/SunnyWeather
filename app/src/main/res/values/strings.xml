@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SunnyWeather</string>
+    <string name="status_empty">数据为空</string>
+    <string name="status_error">出错啦</string>
+    <string name="status_loading">努力加载中...</string>
+    <string name="status_network">网络丢失</string>
+</resources>

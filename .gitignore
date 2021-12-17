@@ -83,3 +83,8 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+/gradle.properties
+.gradle
+.idea
+build
+/app/sunnyweather.jks
